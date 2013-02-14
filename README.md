@@ -1,6 +1,6 @@
 # Pay with a Plus
 
-‘Pay with a Plus’ – offering freebies in exchange for a Google +1 click.
+'Pay with a Plus' - offering freebies in exchange for a Google +1 click.
 
 Instructions and readme can be found here: [http://thisisbensblog.com/pay-with-a-plus/](http://thisisbensblog.com/pay-with-a-plus/)
 
