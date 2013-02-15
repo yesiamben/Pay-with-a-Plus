@@ -5,6 +5,7 @@
 Instructions and readme can be found here: [http://thisisbensblog.com/pay-with-a-plus/](http://thisisbensblog.com/pay-with-a-plus/)
 
 Examples can be found here: [http://lab.thisisbensblog.com/paywithaplus/](http://lab.thisisbensblog.com/paywithaplus/)
+Examples include instructions on how to set everything up, and the settings that can be used for each.
 
 ## Licence
 
